@@ -1,8 +1,4 @@
-﻿/*
-    # Author : OroChippw
-    # Last Change : 2023.11.20
-*/
-#include <map>
+﻿#include <map>
 #include <iostream>
 #include <sstream>
 #include <thread>
